@@ -22,8 +22,11 @@ For more information, see `.travis.yml`, read our [Getting Started guide](http:/
 
 Here is a sample status icon showing the state of the master branch:
 
-This is not my badge!
+This is my badge:
+[![Build status](https://api.travis-ci.org/daneroo/travis-ci-node.js-example.png)]
+(http://travis-ci.org/daneroo/travis-ci-node.js-example)
 
+This is not my badge!
 [![Build Status](https://secure.travis-ci.org/travis-ci/travis-ci-node.js-example.png?branch=master)](http://travis-ci.org/travis-ci/travis-ci-node.js-example)
 
 
